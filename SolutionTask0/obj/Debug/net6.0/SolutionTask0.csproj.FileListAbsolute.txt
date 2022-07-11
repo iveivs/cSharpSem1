@@ -1,0 +1,15 @@
+/Users/mak/VS code start/GB/Lections/C#/SemC#/Sem1/SolutionTask0/bin/Debug/net6.0/SolutionTask0
+/Users/mak/VS code start/GB/Lections/C#/SemC#/Sem1/SolutionTask0/bin/Debug/net6.0/SolutionTask0.deps.json
+/Users/mak/VS code start/GB/Lections/C#/SemC#/Sem1/SolutionTask0/bin/Debug/net6.0/SolutionTask0.runtimeconfig.json
+/Users/mak/VS code start/GB/Lections/C#/SemC#/Sem1/SolutionTask0/bin/Debug/net6.0/SolutionTask0.dll
+/Users/mak/VS code start/GB/Lections/C#/SemC#/Sem1/SolutionTask0/bin/Debug/net6.0/SolutionTask0.pdb
+/Users/mak/VS code start/GB/Lections/C#/SemC#/Sem1/SolutionTask0/obj/Debug/net6.0/SolutionTask0.csproj.AssemblyReference.cache
+/Users/mak/VS code start/GB/Lections/C#/SemC#/Sem1/SolutionTask0/obj/Debug/net6.0/SolutionTask0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/VS code start/GB/Lections/C#/SemC#/Sem1/SolutionTask0/obj/Debug/net6.0/SolutionTask0.AssemblyInfoInputs.cache
+/Users/mak/VS code start/GB/Lections/C#/SemC#/Sem1/SolutionTask0/obj/Debug/net6.0/SolutionTask0.AssemblyInfo.cs
+/Users/mak/VS code start/GB/Lections/C#/SemC#/Sem1/SolutionTask0/obj/Debug/net6.0/SolutionTask0.csproj.CoreCompileInputs.cache
+/Users/mak/VS code start/GB/Lections/C#/SemC#/Sem1/SolutionTask0/obj/Debug/net6.0/SolutionTask0.dll
+/Users/mak/VS code start/GB/Lections/C#/SemC#/Sem1/SolutionTask0/obj/Debug/net6.0/refint/SolutionTask0.dll
+/Users/mak/VS code start/GB/Lections/C#/SemC#/Sem1/SolutionTask0/obj/Debug/net6.0/SolutionTask0.pdb
+/Users/mak/VS code start/GB/Lections/C#/SemC#/Sem1/SolutionTask0/obj/Debug/net6.0/SolutionTask0.genruntimeconfig.cache
+/Users/mak/VS code start/GB/Lections/C#/SemC#/Sem1/SolutionTask0/obj/Debug/net6.0/ref/SolutionTask0.dll
