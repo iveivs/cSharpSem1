@@ -65,5 +65,6 @@ void VariantNative()
     CalculateTask(bufferArray);
     PrintResult();
 }
-
 VariantNative();
+
+
