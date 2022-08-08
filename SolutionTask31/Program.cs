@@ -41,11 +41,11 @@ void CalculateTask(int[] outArray)
     {
         if(outArray[i] > 0)
         {
-            positiveSum++;
+            positiveSum += outArray[i];
         }
         else
         {
-            negativeSum++;
+            negativeSum += outArray[i];
         }
         i++;
     }
