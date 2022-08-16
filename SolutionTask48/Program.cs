@@ -6,7 +6,7 @@
 // 1 2 3 4
 // 2 3 4 5
 
-// Метод для заполнения двумерного массива
+// Метод для заполнения двумерного массива cлучайными числами
 int[,] FillTwoDimArray(int countRow, int countColumn)
 {
     System.Random numberSintezator = new System.Random();
