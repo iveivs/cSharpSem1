@@ -1,10 +1,15 @@
-﻿string? inputLine = Console.ReadLine();
+﻿// Задача №5    Напишите программу, которая на вход принимает одно число (N), а на выходе показывает все целые
+//              числа в промежутке от -N до N. Например:
+//                                                       4 -> "-4, -3, -2, -1, 0, 1, 2, 3, 4"
+//                                                       2 -> " -2, -1, 0, 1, 2"
 
-if(inputLine != null)
+string? inputLineOne = Console.ReadLine();
+
+if(inputLineOne != null)
 {
-    int inputNumber = int.Parse(inputLine);
+    int inputNumber = int.Parse(inputLineOne);
 
-    int outputNumber = inputNumber%10;
+    int starttNumber = inputNumber%10;
 
     Console.WriteLine(outputNumber);
 }
